@@ -1,14 +1,14 @@
 <div class="container__big-card">
     <div class="big-card__photo">
-        <img src="https://placehold.co/600x400" alt="image_big_card">
+        <img src="{{ photoCover }}" alt="image_big_card">
     </div>
     <div class="big-card__title">
-        <h1><a href="#">Saiu a nova versão do Angular</a></h1>
+        <h1><a [routerLink]="['content', Id]">{{ cardTitle }}</a></h1>
     </div>
     <div class="big-card__description">
         <p>
-            <a href="#">
-                Lorem ipsum dolor sit amet consectetur, adipisicing elit. Laborum voluptatem dolorum, culpa ducimus repudiandae doloremque quo similique esse quam veniam?
+            <a [routerLink]="['content', Id]">
+                {{ cardDescription }}
             </a>
         </p>
     </div>

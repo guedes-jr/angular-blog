@@ -1,0 +1,5 @@
+@media screen and (max-width: 300px) {
+    .container__menu-title {
+        font-size: 1.5rem;
+    }
+}
