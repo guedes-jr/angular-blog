@@ -1,7 +1,7 @@
 
 # 🌐 Angular - Blog Tech
 <div align="center">
-  <img src"src/assets/img/banner.png" alt="Logo do Projeto" width="600"/>
+  <img src="src/assets/img/banner.png" alt="Logo do Projeto" width="600"/>
 </div>
 
 <p align="center">
