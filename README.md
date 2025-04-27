@@ -38,7 +38,7 @@
 
 ## 🛠️Sobre o Projeto
 
-Descrição do projeto que está sendo desenvoido
+Desenvolvimento de um blog simples utilizando Angular 14, como parte da formação que estou realizando na DIO.
 
 ## 🧰 Tecnologias Utilizadas
 
